@@ -9,7 +9,7 @@ function Hero() {
       <h1 className='head_text'>
         Summarize Article with <br className='max-md:hidden' />
         <span className='orange_gradient'>OpenAI</span>
-      </h1>
+      </h1> 
       <h2 className='desc'>
         AI기반의 Summarizer를 활용하여 당신의 아티클을 간편하게 요약해 보세요.
       </h2>
